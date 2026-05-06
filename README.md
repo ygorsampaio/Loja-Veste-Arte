@@ -64,7 +64,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ⭐ Se você gostou desse projeto, dê uma estrela no repositório!
 
-🚀 **Visualize o projeto online:** [CLIQUE AQUI PARA ACESSAR O SITE NA VERCEL](vestearte.netlify.app)
+🚀 **Visualize o projeto online:** [CLIQUE AQUI PARA ACESSAR O SITE NO NETLIFY](https://vestearte.netlify.app/)
 
 
 1. Faça o clone deste repositório:
